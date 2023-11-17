@@ -38,7 +38,7 @@ print("[INFO] loading YOLO from disk...")
 net = cv2.dnn.readNetFromDarknet(configPath, weightsPath)
 
 # load our input image and grab its spatial dimensions
-image = cv2.imread("boat_image_5.jpg")
+image = cv2.imread("boat_image.jpg")
 (H, W) = image.shape[:2]
 # determine only the *output* layer names that we need from YOLO
 ln = net.getLayerNames() 
