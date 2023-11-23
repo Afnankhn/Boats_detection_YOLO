@@ -17,5 +17,5 @@ The figures demonstrate the results on different sample images tested.
 
 The demonstrated video results are:
 
-
+https://github.com/Afnankhn/boats_detection_YOLO_model/blob/main/video_output_1.gif?raw=true
 
