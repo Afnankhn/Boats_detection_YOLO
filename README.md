@@ -12,11 +12,10 @@ The figures demonstrate the results on different sample images tested.
 ![Image6](https://github.com/Afnankhn/boats_detection_YOLO_model/assets/55242810/b1fb9097-a6c4-49c8-ac10-55a203e66107)
 
 
-![Image5](https://github.com/Afnankhn/boats_detection_YOLO_model/assets/55242810/025121ae-7e5b-4414-abff-94845eae67b5)
 
 
-The demonstrated video results can be viewed at the following links:
 
-Video_1: https://drive.google.com/file/d/13Byw6NWz2oNoTusJLnYiHwh645XMs0Ep/view?usp=sharing 
+The demonstrated video results are:
 
-Video_2: https://drive.google.com/file/d/1w1v-aqrqJa4UWCFpjcOSvk3fkhqstnzG/view?usp=sharing 
+
+
