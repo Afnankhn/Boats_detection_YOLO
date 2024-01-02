@@ -1,4 +1,4 @@
-# boats_detection_YOLO_model
+# Boats_detection_YOLO_model
 In this repository, the demo tests conducted for boat detection on both images and videos are conducted.
 The pertained YOLO algorithm (Version 3) is used for the testing purpose.
 YOLOv3 is a real-time object detection algorithm that is trained on 80 different classes of the well-known COCO dataset and efficiently identifies specific objects in videos or images.
